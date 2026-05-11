@@ -97,3 +97,4 @@
 /Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRoller.Tests/obj/Debug/net10.0/DiceRoller.Tests.pdb
 /Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRoller.Tests/obj/Debug/net10.0/DiceRoller.Tests.genruntimeconfig.cache
 /Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRoller.Tests/obj/Debug/net10.0/ref/DiceRoller.Tests.dll
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRoller.Tests/obj/Debug/net10.0/DiceRoller.Tests.sourcelink.json

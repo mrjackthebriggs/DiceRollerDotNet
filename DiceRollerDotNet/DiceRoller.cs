@@ -24,10 +24,17 @@ class DiceRoller{
         break;
       }
       else if(input == "h"){
-        // print help
+        Console.WriteLine(@"
+        Input a number of dice and dice side/dimensions in this format.
+        2 dice with 6 sides are represented with the input '2d6'.
+        5 20 sided dice are represented with the input '5d20'.
+        The total will be talied up at the end.
+        ");
+        
       }
-      else if(DiceRoll.ValidityCheck(input)){
-        DiceRoll dr = new DiceRoll(input);
+      else if(DiceRollerLib.DiceRoller.ValidityCheck(input))
+      {
+        DiceRollerLib.DiceRoller dr = new DiceRollerLib.DiceRoller(input);
 
         while(true){
           bool res = dr.Run();

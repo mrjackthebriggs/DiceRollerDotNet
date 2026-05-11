@@ -10,9 +10,11 @@ public class StaticTests{
     [InlineData("5d6")]
     [InlineData("2d12")]
     [InlineData("3d20")]
+    [InlineData("3d20x")]
+    [InlineData("2d6x")]
     public void TestDiceRollValidationReturnTrue(string val)
     {
-        Assert.True(DiceRoll.ValidityCheck(val),$"\'{val}\' Failed");
+    Assert.True(DiceRollerLib.DiceRoller.ValidityCheck(val),$"\'{val}\' Failed");
     }
 
     [Theory]
@@ -20,9 +22,11 @@ public class StaticTests{
     [InlineData("dick")]
     [InlineData("2dick5")]
     [InlineData("2dd5")]
+    [InlineData("2dd5x")]
+    [InlineData("2dick5x")]
     public void TestDiceRollValidationReturnFalse(string val)
     {
-        Assert.False(DiceRoll.ValidityCheck(val),$"\'{val}\' Failed");
+    Assert.False(DiceRollerLib.DiceRoller.ValidityCheck(val),$"\'{val}\' Failed");
     }
 }
 
