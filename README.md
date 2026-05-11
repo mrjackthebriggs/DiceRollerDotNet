@@ -1,0 +1,1 @@
+A Basic C# dotnetcore program to refresh myself on C# fundimentals + learning how to use xunit
