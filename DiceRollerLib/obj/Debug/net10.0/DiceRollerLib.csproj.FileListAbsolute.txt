@@ -1,0 +1,11 @@
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/bin/Debug/net10.0/DiceRollerLib.deps.json
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/bin/Debug/net10.0/DiceRollerLib.dll
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/bin/Debug/net10.0/DiceRollerLib.pdb
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.AssemblyInfoInputs.cache
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.AssemblyInfo.cs
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.csproj.CoreCompileInputs.cache
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.dll
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/refint/DiceRollerLib.dll
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/DiceRollerLib.pdb
+/Users/rigggy/Documents/C# Crap/ MS Learn/First C#/DiceRollerDotNet/DiceRollerLib/obj/Debug/net10.0/ref/DiceRollerLib.dll

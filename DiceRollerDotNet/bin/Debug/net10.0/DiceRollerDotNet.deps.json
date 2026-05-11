@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DiceRollerDotNet/1.0.0": {
+        "dependencies": {
+          "DiceRollerLib": "1.0.0"
+        },
+        "runtime": {
+          "DiceRollerDotNet.dll": {}
+        }
+      },
+      "DiceRollerLib/1.0.0": {
+        "runtime": {
+          "DiceRollerLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiceRollerDotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiceRollerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

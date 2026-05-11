@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DiceRoller.Tests/DiceRoller.Tests.csproj" />
+  <Project Path="DiceRollerDotNet/DiceRollerDotNet.csproj" />
+  <Project Path="DiceRollerLib/DiceRollerLib.csproj" />
+</Solution>
